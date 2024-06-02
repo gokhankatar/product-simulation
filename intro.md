@@ -1,0 +1,1 @@
+# This is a simulation of adding, deleting, updating, and fetching product(s) on a trading platform.
